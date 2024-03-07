@@ -1,0 +1,22 @@
+.navbar-brand img {
+    width: 300px;
+    height: auto;
+    transition: transform 0.3s ease;
+}
+
+.pt-4 {
+    padding-top: 1.5rem !important;
+    padding: 0 10% 0 10%;
+}
+
+.copy-right {
+    align-content: center
+}
+
+.footer-DVLH {
+    padding: 0 10% 0 10%;
+}
+
+.col-lg-2 {
+    width: 50%;
+}
